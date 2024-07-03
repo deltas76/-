@@ -15,7 +15,7 @@ body{
 
 main{
     text-align: center;
-    height: 500px;
+    height: auto;
     padding: 50px;
     font-size: 50px;
     background-size: cover;
@@ -44,6 +44,7 @@ padding: 20px;
 .social img {
     width: 100px;
     padding-left: 10px;
+    bottom: 250px;
 }
 
 .social {
